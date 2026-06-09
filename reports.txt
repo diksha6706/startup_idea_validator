@@ -1,0 +1,61 @@
+
+Idea Name : Fashcyle
+Score : 100
+Rating : Excellent
+
+Strengths : Idea name provided
+Problem clearly defined
+Target audience identified
+Revenue model present
+Sufficient budget
+ 
+Weakness : None
+
+
+    Idea Name : fash
+    Score : 80
+    Rating : Excellent
+
+    Strengths : Idea name provided
+Problem clearly defined
+Target audience identified
+Revenue model present
+ 
+    Weakness : Budget is too low
+
+
+    ----------------------------------------
+    
+    Idea Name : fash
+    Score : 100
+    Rating : Excellent
+
+    Strengths : Idea name provided
+Problem clearly defined
+Target audience identified
+Revenue model present
+Sufficient budget
+ 
+    Weakness : None
+
+
+    ----------------------------------------
+    
+    Idea Name : diksha
+    Score : 100
+    Rating : Excellent
+
+    Strengths:
+    Idea name provided
+Problem clearly defined
+Target audience identified
+Revenue model present
+Sufficient budget
+
+
+    Weaknesses:
+    None
+
+
+    ----------------------------------------
+    
